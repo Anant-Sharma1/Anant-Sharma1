@@ -11,8 +11,4 @@ I am Anant a developer, student and a learner from India
 
 #MY PROCESS
 
-<h1>EAT,</h1>
-<h1>SLEEP,</h1>
-<h1>CODE</h1>
-
-
+<h1>EAT, SLEEP, CODE</h1>
