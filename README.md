@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">I am Anant.</h1>
+<h3 align="center">Contrary to Popular Belief, I Know Exactly What I'm Doing.</h3>
 
-<!--
-**Anant-Sharma1/Anant-Sharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Anant a developer, student and a learner from India
 
-Here are some ideas to get you started:
+- I am an A.I developer, Using Python 🐍 as the programming language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Just Searching For Motivation In Life. To Start The Journey.
+
+- Helping A.I to grow 
+
+#MY PROCESS
+
+<h1>EAT,</h1>
+<h1>SLEEP,</h1>
+<h1>CODE</h1>
+
+
